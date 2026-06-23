@@ -39,14 +39,32 @@ I am a passionate software engineering student and full-stack developer dedicate
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=hamza-amezouar&show_icons=true&theme=radical" alt="Hamza's GitHub Stats" height="150" />
-  <img src="https://github-readme-top-langs.vercel.add/api/?username=hamza-amezouar&layout=compact&theme=radical" alt="Top Languages" height="150" />
+  <img src="https://github-readme-top-langs.vercel.app/api/?username=hamza-amezouar&layout=compact&theme=radical" alt="Top Languages" height="150" />
+</p>
+
+---
+
+## 🕹️ Loading My Skills...
+<!-- Pacman Animation Divider -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamza-amezouar&theme=react-dark&area=true&hide_border=true&bg_color=0d1117" alt="Activity Graph" width="100%" />
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+</picture>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer&text=🧩%20Pacman%20is%20eating%20bugs..." />
 </p>
 
 ---
 
 ## 🤝 Connect with Me
 
-*   💼 **LinkedIn:** [linkedin.com/in/hamza-amezouar](https://linkedin.com/in/your-username)
-*   📧 **Email:** hamzaxtop@gmail.com*
+*   💼 **LinkedIn:** [linkedin.com/in/hamza-amezouar](https://linkedin.com/in/hamza-amezouar)
+*   📧 **Email:** hamzaxtop@gmail.com
 
 "The best way to predict the future is to invent it." 🚀
