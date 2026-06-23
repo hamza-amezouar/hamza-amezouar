@@ -38,15 +38,15 @@ I am a passionate software engineering student and full-stack developer dedicate
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamzaamezuar&show_icons=true&theme=radical" alt="Hamza's GitHub Stats" height="150" />
-  <img src="https://github-readme-top-langs.vercel.add/api/?username=hamzaamezuar&layout=compact&theme=radical" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hamza-amezuar&show_icons=true&theme=radical" alt="Hamza's GitHub Stats" height="150" />
+  <img src="https://github-readme-top-langs.vercel.add/api/?username=hamza-amezuar&layout=compact&theme=radical" alt="Top Languages" height="150" />
 </p>
 
 ---
 
 ## 🤝 Connect with Me
 
-*   💼 **LinkedIn:** [linkedin.com/in/your-username](https://linkedin.com/in/your-username) *(قم بتعديل هذا الرابط لرابط حسابك)*
-*   📧 **Email:** your.email@example.com *(قم بتغييره لإيميلك)*
+*   💼 **LinkedIn:** [linkedin.com/in/your-username](https://linkedin.com/in/your-username)
+*   📧 **Email:** hamzaxtop@gmail.com*
 
 "The best way to predict the future is to invent it." 🚀
