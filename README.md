@@ -46,7 +46,7 @@ I am a passionate software engineering student and full-stack developer dedicate
 
 ## 🤝 Connect with Me
 
-*   💼 **LinkedIn:** [linkedin.com/in/your-username](https://linkedin.com/in/your-username)
+*   💼 **LinkedIn:** [linkedin.com/in/hamza-amezouar](https://linkedin.com/in/your-username)
 *   📧 **Email:** hamzaxtop@gmail.com*
 
 "The best way to predict the future is to invent it." 🚀
