@@ -56,9 +56,6 @@ I am a passionate software engineering student and full-stack developer dedicate
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
 </picture>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer&text=🧩%20Pacman%20is%20eating%20bugs..." />
-</p>
 
 ---
 
