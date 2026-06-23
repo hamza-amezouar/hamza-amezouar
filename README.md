@@ -39,7 +39,7 @@ I am a passionate software engineering student and full-stack developer dedicate
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=hamza-amezouar&show_icons=true&theme=radical" alt="Hamza's GitHub Stats" height="150" />
-  <img src="https://github-readme-top-langs.vercel.app/api/?username=hamza-amezouar&layout=compact&theme=radical" alt="Top Languages" height="150" />
+  <!-- <img src="https://github-readme-top-langs.vercel.app/api/?username=hamza-amezouar&layout=compact&theme=radical" alt="Top Languages" height="150" /> -->
 </p>
 
 ---
