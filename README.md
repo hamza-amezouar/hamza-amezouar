@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,20,30&height=200&section=header&text=Hamza%20Amezuar&fontSize=50&animation=twinkling" width="100%" />
 </p>
 
-### 🚀 Full-Stack Developer | AI Enthusiast | Student at 1337 School (42 Network)
+### 🚀 Full-Stack Developer |   CLOUD SECURITY Enthusiast | Student at 1337 School (42 Network)
 
 I am a passionate software engineering student and full-stack developer dedicated to building efficient, scalable, and impactful digital solutions. Combining low-level systems programming logic with modern web technologies, I love solving complex problems from the architecture up to the user interface.
 
