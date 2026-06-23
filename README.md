@@ -1,4 +1,6 @@
-# Hi there, I'm Hamza Amezuar! 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,20,30&height=200&section=header&text=Hamza%20Amezuar&fontSize=50&animation=twinkling" width="100%" />
+</p>
 
 ### 🚀 Full-Stack Developer | AI Enthusiast | Student at 1337 School (42 Network)
 
@@ -28,6 +30,16 @@ I am a passionate software engineering student and full-stack developer dedicate
 
 ---
 
+## 🛠️ Featured Projects
+
+| Project | Tech Stack | Description |
+| :--- | :--- | :--- |
+| **[Codexion](https://github.com/hamza-amezouar/your-repo)** | C, Threads, Mutex | A multi-threaded system simulation handling concurrent resource arbitration and synchronization. |
+| **[Custom MazeGen Engine](https://github.com/hamza-amezouar/your-repo)** | Python | A specialized package for dynamic maze generation and structural routing. |
+| **[AI Function Caller](https://github.com/hamza-amezouar/your-repo)** | Python, LLMs, JSON | Custom constrained decoding tool using logit masking with Qwen models to guarantee structured JSON output. |
+
+---
+
 ## 🎓 Education & Background
 
 *   **1337 Coding School (42 Network):** Immersive peer-to-peer training focused on rigorous problem solving, algorithms, memory management, and low-level computing (C/Linux).
@@ -39,7 +51,6 @@ I am a passionate software engineering student and full-stack developer dedicate
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=hamza-amezouar&show_icons=true&theme=radical" alt="Hamza's GitHub Stats" height="150" />
-  <!-- <img src="https://github-readme-top-langs.vercel.app/api/?username=hamza-amezouar&layout=compact&theme=radical" alt="Top Languages" height="150" /> -->
 </p>
 
 ---
@@ -56,7 +67,6 @@ I am a passionate software engineering student and full-stack developer dedicate
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
 </picture>
 
-
 ---
 
 ## 🤝 Connect with Me
@@ -64,4 +74,12 @@ I am a passionate software engineering student and full-stack developer dedicate
 *   💼 **LinkedIn:** [linkedin.com/in/hamza-amezouar](https://linkedin.com/in/hamza-amezouar)
 *   📧 **Email:** hamzaxtop@gmail.com
 
-"The best way to predict the future is to invent it." 🚀
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Profile_Views-🔥_Welcome-blueviolet?style=for-the-badge" alt="Views Badge" />
+</p>
+
+<p align="center">
+  "The best way to predict the future is to invent it." 🚀
+</p>
