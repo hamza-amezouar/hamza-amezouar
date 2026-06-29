@@ -34,7 +34,7 @@ I am a passionate software engineering student and full-stack developer dedicate
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
-| **[Codexion](https://github.com/hamza-amezouar/your-repo](https://github.com/hamza-amezouar/codexion))** | C, Threads, Mutex | A high-performance system simulation built in C to solve concurrent resource arbitration and synchronization challenges.|
+| **[Codexion](https://github.com/hamza-amezouar/codexion)** | C, Threads, Mutex | A high-performance system simulation built in C to solve concurrent resource arbitration and synchronization challenges.|
 | **[Custom MazeGen Engine](https://github.com/hamza-amezouar/maze)** | Python | A specialized package for dynamic maze generation and structural routing. |
 | **[AI Function Caller](https://github.com/hamza-amezouar/Call-Me-Maybe)** | Python, LLMs, JSON | Custom constrained decoding tool using logit masking with Qwen models to guarantee structured JSON output. |
 
