@@ -71,7 +71,7 @@ I am a passionate software engineering student and full-stack developer dedicate
 
 ## 🤝 Connect with Me
 
-*   💼 **LinkedIn:** [linkedin.com/in/hamza-amezouar](https://linkedin.com/in/hamza-amezouar)
+*   💼 **LinkedIn:** [linkedin.com/in/hamza-amezouar](https://www.linkedin.com/in/hamza-amezouar-6321203a8/)
 *   📧 **Email:** hamzaxtop@gmail.com
 
 ---
