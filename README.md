@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,20,30&height=200&section=header&text=Hamza%20Amezuar&fontSize=50&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,20,30&height=200&section=header&text=Hamza%20Amezouar&fontSize=50&animation=twinkling" width="100%" />
 </p>
 
 ### 🚀 Full-Stack Developer |   CLOUD SECURITY Enthusiast | Student at 1337 School (42 Network)
@@ -63,7 +63,7 @@ I am a passionate software engineering student and full-stack developer dedicate
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: black)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
 </picture>
