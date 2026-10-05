@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://capsule-render.vercel.app/?type=waving&color=gradient&customColorList=10,20,30&height=200&section=header&text=Hamza%20Amezouar&fontSize=50&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,20,30&height=200&section=header&text=Hamza%20Amezouar&fontSize=50&animation=twinkling" width="100%" />
 </p>
 
 ### 🚀 Full-Stack Developer |   CLOUD SECURITY Enthusiast | Student at 1337 School (42 Network)
