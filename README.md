@@ -1,71 +1,82 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,20,30&height=200&section=header&text=Hamza%20Amezouar&fontSize=50&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,24,40&height=200&section=header&text=Hamza%20Amezouar&fontSize=52&fontAlignY=38&animation=twinkling" width="100%" />
 </p>
 
-### 🚀 Full-Stack Developer |   CLOUD SECURITY Enthusiast | Student at 1337 School (42 Network)
+<h3 align="center">⚡ Systems & AI Engineer | Low-Level Runtimes & Full-Stack Systems</h3>
 
-I am a passionate software engineering student and full-stack developer dedicated to building efficient, scalable, and impactful digital solutions. Combining low-level systems programming logic with modern web technologies, I love solving complex problems from the architecture up to the user interface.
+<p align="center">
+  <code>POSIX Multithreading</code> • <code>x86 Assembly / C</code> • <code>Constrained LLM Decoding</code> • <code>WebAssembly</code> • <code>1337 (42 Network)</code>
+</p>
 
----
-
-## 🛠️ Tech Stack & Skills
-
-### 🌐 Frontend Development
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
-### ⚙️ Backend & Databases
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/en)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=sqlite&logoColor=white)](https://sql.sh/)
-[![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-
-### 💻 Systems & DevOps
-[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](https://www.c-language.org/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+<p align="center">
+  <a href="https://linkedin.com/in/hamza-amezouar-6321203a8/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:hamzaxtop@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-## 🛠️ Featured Projects
+## 🧬 Engineering Profile
 
-| Project | Tech Stack | Description |
+Software engineer specializing in **low-level systems architecture**, **concurrent runtimes**, and **local machine learning infrastructure**. My foundation is built on deep C/Assembly systems programming and rigorous algorithm optimization at **1337 Coding School (42 Network)**, extended into modern web runtimes via **WebAssembly**, **Next.js**, and **constrained LLM inference pipelines**.
+
+* ⚙️ **Core Focus**: Thread synchronization, manual memory management, edge runtime optimization, and deterministic LLM structured outputs.
+* 🎓 **Background**: Intensive peer-to-peer low-level systems curriculum at **1337 School (42 Network)**.
+* 🔬 **Current R&D**: Compiling native C game engines to WebAssembly and building zero-latency constrained decoding tools for local LLMs.
+
+---
+
+## 🛠️ Technology Architecture
+
+### 🖥️ Systems & Infrastructure Programming
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Assembly](https://img.shields.io/badge/x86_Assembly-000000?style=for-the-badge&logo=intel&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux_Kernel-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![POSIX](https://img.shields.io/badge/POSIX_Threads-3776AB?style=for-the-badge&logo=c&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Bash/Make](https://img.shields.io/badge/Make/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### 🧠 Machine Learning & Local Runtimes
+![Python](https://img.shields.io/badge/Python_3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Transformers](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![Pygame](https://img.shields.io/badge/Pygame-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🌐 High-Performance Web & Full-Stack
+![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## ⚡ Key Engineering Projects
+
+| Project | Tech Core | System Architecture Highlights |
 | :--- | :--- | :--- |
-| **[Codexion](https://github.com/hamza-amezouar/codexion)** | C, Threads, Mutex | A high-performance system simulation built in C to solve concurrent resource arbitration and synchronization challenges. |
-| **[Custom MazeGen Engine](https://github.com/hamza-amezouar/maze)** | Python | A specialized package for dynamic maze generation and structural routing. |
-| **[AI Function Caller](https://github.com/hamza-amezouar/Call-Me-Maybe)** | Python, LLMs, JSON | Custom constrained decoding tool using logit masking with Qwen models to guarantee structured JSON output. |
-| **[Chess Engine](https://github.com/hamza-amezouar/CoreC-Chess) _(Coming Soon)_** | C, WebAssembly, JavaScript | A custom chess engine built from scratch in C, compiled to WebAssembly, with a browser-based interface for interactive gameplay and visualization. |
+| **[Codexion](https://github.com/hamza-amezouar/codexion)** | `C`, `Pthreads`, `Mutex` | High-performance multithreaded resource arbitration engine implementing strict synchronization primitives, mutex locks, and condition variables to eliminate race conditions and prevent deadlocks. |
+| **[Call-Me-Maybe](https://github.com/hamza-amezouar/Call-Me-Maybe)** | `Python`, `Transformers`, `Logit Masking` | Zero-latency constrained decoding framework for local LLMs (Qwen). Implements dynamic logit masking to enforce strict, schema-compliant JSON function calling during generation. |
+| **[CoreC-Chess Engine](https://github.com/hamza-amezouar/CoreC-Chess)** | `C`, `WebAssembly`, `JavaScript` | Embedded chess evaluation engine written natively in C and compiled to Wasm. Executes fast state evaluations directly inside modern browser environments. |
+| **[Fly-In Simulator](https://github.com/hamza-amezouar/Fly-In)** | `Python`, `Graph Theory`, `Pygame` | Multi-agent autonomous drone routing engine utilizing shortest-path graph algorithms, real-time spatial collision avoidance, and dynamic visual telemetry rendering. |
+| **[Custom MazeGen Engine](https://github.com/hamza-amezouar/maze)** | `Python`, `Packaging`, `Setuptools` | Modular Python library providing configurable maze generation algorithms and structural routing solvers, packaged via standard `pyproject.toml` specs. |
 
 ---
 
-## 🎓 Education & Background
+## 📈 Engineering Metrics & Activity
 
-*   **1337 Coding School (42 Network):** Immersive peer-to-peer training focused on rigorous problem solving, algorithms, memory management, and low-level computing (C/Linux).
-*   **Self-Driven Full-Stack Specialization:** Actively building and deploying end-to-end web applications using the MERN stack and Next.js ecosystem.
-
----
-
-## 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamza-amezouar&show_icons=true&theme=radical" alt="Hamza's GitHub Stats" height="150" />
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hamza-amezouar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Hamza's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-languages/?username=hamza-amezouar&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Most Used Languages" />
 </p>
 
-
-## 🤝 Connect with Me
-
-*   💼 **LinkedIn:** [linkedin.com/in/hamza-amezouar](https://www.linkedin.com/in/hamza-amezouar-6321203a8/)
-*   📧 **Email:** hamzaxtop@gmail.com
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamza-amezouar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile_Views-🔥_Welcome-blueviolet?style=for-the-badge" alt="Views Badge" />
-</p>
-
-<p align="center">
-  "The best way to predict the future is to invent it." 🚀
+  <sub>Designed & engineered by Hamza Amezouar • 1337 School (42 Network)</sub>
 </p>
